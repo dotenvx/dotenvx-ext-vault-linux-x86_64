@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-ext-vault-linux-x86_64",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "dotenvx-ext-vault-linux-x86_64 binary",
   "repository": {
     "type": "git",
